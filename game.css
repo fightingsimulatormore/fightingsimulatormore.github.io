@@ -1,0 +1,114 @@
+body{
+  text-align: center;
+  background-color: black;
+  background-image: url(https://cdn.discordapp.com/attachments/590932607466733568/886258329943429170/imgonline-com-ua-Blur-kyeso81AJV.jpg);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 1000vh;
+  width: 100%;
+  z-index: 1;
+}
+.stand{
+  background-color: white;
+  position: relative;
+  font-size: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-bottom: 400px;
+  background: rgba(255,255,255,0.5);
+  z-index: 2;
+  font-family: impact;
+  transition: 1s all;
+  cursor: default;
+  border-radius: 10px;
+}
+.stand:hover{
+  transition: all;
+  transform: scale(1.1);
+}
+.opis{
+  font-size: 30px;
+}
+.stand2{
+  background-color: white;
+  position: relative;
+  font-size: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-bottom: 400px;
+  background: rgba(255,255,255,0.5);
+  z-index: 2;
+  font-family: impact;
+  transition: 1s all;
+  cursor: default;
+  border-radius: 10px;
+}
+.stand2:hover{
+  transition: all;
+  transform: scale(1.1);
+}
+.opis2{
+  font-size: 30px;
+}
+.stand3{
+  background-color: white;
+  position: relative;
+  font-size: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-bottom: 400px;
+  background: rgba(255,255,255,0.5);
+  z-index: 2;
+  font-family: impact;
+  transition: 1s all;
+  cursor: default;
+  border-radius: 10px;
+}
+.stand3:hover{
+  transition: all;
+  transform: scale(1.1);
+}
+.opis3{
+  font-size: 30px;
+}
+.stand4{
+  background-color: white;
+  position: relative;
+  font-size: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-bottom: 400px;
+  background: rgba(255,255,255,0.5);
+  z-index: 2;
+  font-family: impact;
+  transition: 1s all;
+  cursor: default;
+  border-radius: 10px;
+}
+.stand4:hover{
+  transition: all;
+  transform: scale(1.1);
+}
+.opis4{
+  font-size: 30px;
+}
+.img{
+  transition: all;
+  margin-top: 30px;
+  transform: scale(0.99);
+}
+.img2{
+  transition: all;
+  transform: scale(0.99);
+}
+.img3{
+  transition: all;
+  margin-top: 30px;
+  transform: scale(0.99);
+}
+.img4{
+  transition: all;
+  margin-top: 30px;
+  transform: scale(0.99);
+}
